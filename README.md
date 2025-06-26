@@ -4,3 +4,4 @@
 
 ### This line is added from feature branch
 
+### Rebase test: Add a line from main branch
